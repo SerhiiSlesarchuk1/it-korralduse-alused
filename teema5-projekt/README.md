@@ -1,17 +1,18 @@
-# IT korralduse alused
+# Teema 5: Projektijuhtimine ja Agiilsed meetodid
 
-**Õpilane:** Serhii Slesarchuk  
-**Grupp:** LOGITpv24  
+## Põhimõisted
+1. **Projekt** – Ajalise ja eelarvelise piiranguga ühekordne tegevus kindla eesmärgi saavutamiseks.
+2. **Agile (Agiilne arendus)** – Iteratiivne lähenemine tarkvaraarendusele, mis keskendub paindlikkusele ja kiirele reageerimisele.
+3. **Scrum** – Üks populaarsemaid agiilseid raamistikke, mis jagab töö lühikesteks tsükliteks (sprintideks).
+4. **Sprint** – Kindla pikkusega (tavaliselt 1-4 nädalat) ajaperiood, mille jooksul peab valmima töötav tooteosa.
+5. **Product Backlog** – Prioritiseeritud nimekiri kõigist ülesannetest ja nõuetest, mida projektis on vaja teha.
 
-## Kursuse lühikirjeldus
+## Mida õppisin
 ```
-Antud kursuse raames õpime tundma IT-teenuste haldamise aluseid, protsesside juhtimist, IT-infrastruktuuri ehitust ning agiilseid projektijuhtimise metodoloogiaid. Kõik õppematerjalid ja iseseisvad tööd on koondatud siia repositooriumisse.
+Selle teema käigus sain teada, miks traditsiooniline koskmudeli (Waterfall) projektijuhtimine IT-s tihti ebaõnnestub ja miks eelistatakse agiilseid meetodeid nagu Scrum. Paindlik planeerimine aitab muutuvas keskkonnas paremini toime tulla.
 ```
 
-## Sisukord
-- [Teema 1: ITIL](teema1-itil/)
-- [Teema 2: Protsessid](teema2-protsessid/)
-- [Teema 3: Taristu](teema3-taristu/)
-- [Teema 4: Lean](teema4-lean/)
-- [Teema 5: Projekt](teema5-projekt/)
-- [Kokkuvõte ja refleksioon](kokkuvote/)
+## Näide
+```
+Meie praegune praktiline töö on nagu väike projekt: meil on tähtaeg, nõuded ja me liigume samm-sammult tulemuseni.
+```
